@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\terceiraSemana\Sa01.Aplicacao05\bin\Debug\Sa01.Aplicacao05.exe.config
+C:\Users\User\source\repos\terceiraSemana\Sa01.Aplicacao05\bin\Debug\Sa01.Aplicacao05.exe
+C:\Users\User\source\repos\terceiraSemana\Sa01.Aplicacao05\bin\Debug\Sa01.Aplicacao05.pdb
+C:\Users\User\source\repos\terceiraSemana\Sa01.Aplicacao05\obj\Debug\Sa01.Aplicacao05.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\terceiraSemana\Sa01.Aplicacao05\obj\Debug\Sa01.Aplicacao05.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\terceiraSemana\Sa01.Aplicacao05\obj\Debug\Sa01.Aplicacao05.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\terceiraSemana\Sa01.Aplicacao05\obj\Debug\Sa01.Aplicacao05.exe
+C:\Users\User\source\repos\terceiraSemana\Sa01.Aplicacao05\obj\Debug\Sa01.Aplicacao05.pdb
